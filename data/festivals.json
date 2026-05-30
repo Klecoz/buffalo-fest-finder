@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Food Truck Tuesday at Larkin Square",
+    "category": "Food",
+    "start_date": "2026-06-02",
+    "end_date": "2026-08-25",
+    "location": "Larkin Square, Buffalo",
+    "blurb": "Buffalo's biggest dinner party returns for its 13th season every Tuesday evening at Larkin Square, featuring a rotating lineup of 20+ regional food trucks and free live music.",
+    "url": "https://larkinsquare.com/food-truck-tuesday-2026-season-announced/",
+    "confidence": "high"
+  },
+  {
+    "name": "Buffalo Pride Flag Raising",
+    "category": "Cultural",
+    "start_date": "2026-06-02",
+    "end_date": "2026-06-02",
+    "location": "Buffalo City Hall",
+    "blurb": "The official kick-off to Buffalo Pride Week with the raising of the Pride Flag at City Hall.",
+    "url": "https://buffalopride.org/",
+    "confidence": "high",
+    "pride": true
+  },
+  {
+    "name": "KeyBank Live at Larkin",
+    "category": "Neighborhood",
+    "start_date": "2026-06-03",
+    "end_date": "2026-08-26",
+    "location": "Larkinville (Larkin Square)",
+    "blurb": "Buffalo's beloved free Wednesday evening concert series in Larkinville runs June through August, featuring local bands alongside food trucks and a full bar.",
+    "url": "https://larkinsquare.com/things-to-do/keybank-live-at-larkin/",
+    "confidence": "high"
+  },
+  {
+    "name": "Thursday & Main",
+    "category": "Music",
+    "start_date": "2026-06-04",
+    "end_date": "2026-07-30",
+    "location": "Fountain Plaza, Downtown Buffalo",
+    "blurb": "Free weekly outdoor concert series running every Thursday evening at Fountain Plaza, celebrating its 10th anniversary season with a mix of local and national acts.",
+    "url": "https://www.buffaloplace.com/play/our-events/",
+    "confidence": "high"
+  },
+  {
+    "name": "Buffalo Greek Fest",
+    "category": "Food",
+    "start_date": "2026-06-05",
+    "end_date": "2026-06-07",
+    "location": "Annunciation Greek Orthodox Church, Buffalo",
+    "blurb": "The 48th Annual Buffalo Greek Fest brings authentic Greek cuisine, pastries, live music, and traditional folk dancing to the Annunciation Greek Orthodox Church.",
+    "url": "https://www.buffalogreekfest.org/",
+    "confidence": "high"
+  },
+  {
+    "name": "5th Annual Kick-Off to Buffalo Pride Party",
+    "category": "Cultural",
+    "start_date": "2026-06-05",
+    "end_date": "2026-06-05",
+    "location": "257 Franklin St, Buffalo",
+    "blurb": "A community night of music, dancing, drag, food, and photo booth fun benefiting GLYS WNY, Inc., launching Pride Week.",
+    "url": "https://givebutter.com/pridekickoff2026",
+    "confidence": "high",
+    "pride": true
+  },
+  {
+    "name": "M&T First Friday: Pride! at the AKG",
+    "category": "Art",
+    "start_date": "2026-06-05",
+    "end_date": "2026-06-05",
+    "location": "Buffalo AKG Art Museum",
+    "blurb": "Pride-themed First Friday programming including a Weaving with Pride community art project, drop-in drawing, and a Queering the Collection gallery tour.",
+    "url": "https://buffaloakg.org/find-event",
+    "confidence": "high",
+    "pride": true
+  },
+  {
+    "name": "Pridechella",
+    "category": "Music",
+    "start_date": "2026-06-06",
+    "end_date": "2026-06-06",
+    "location": "Electric City, Buffalo",
+    "blurb": "An 18+ music-festival drag spectacular billed as seven realms colliding, with headlining queens and DJ MRKUS, kicking off Buffalo Pride weekend.",
+    "url": "https://electriccity.com/shows/pridechella/",
+    "confidence": "high",
+    "pride": true
+  },
+  {
+    "name": "Intersect: A Pride Arts Festival",
+    "category": "Neighborhood",
+    "start_date": "2026-06-06",
+    "end_date": "2026-06-06",
+    "location": "Allentown (Allen Street, Franklin to Main)",
+    "blurb": "A free outdoor Pride arts festival closing Allen Street in the Historic Allentown District with 50+ vendors, live art, queer performers, and an outdoor stage centered around 26 Allen.",
+    "url": "https://buffalopride.org/event/intersect-a-pride-arts-festival/",
+    "confidence": "high",
+    "pride": true
+  },
+  {
+    "name": "Buffalo Pride Parade",
+    "category": "Cultural",
+    "start_date": "2026-06-07",
+    "end_date": "2026-06-07",
+    "location": "Elmwood Village / Allentown",
+    "blurb": "The annual Buffalo Pride Parade marching under the theme \"Rooted in Pride,\" stepping off at Elmwood and Forest at 11 a.m. and finishing at Elmwood and Allen.",
+    "url": "https://buffalopride.org/event/buffalo-pride-parade-2026-2/",
+    "confidence": "high",
+    "pride": true
+  },
+  {
+    "name": "Thursday at Canalside Concert Series",
+    "category": "Music",
+    "start_date": "2026-06-09",
+    "end_date": "2026-08-25",
+    "location": "Canalside, Buffalo Waterfront",
+    "blurb": "Free weekly Thursday night concerts at Buffalo's Erie Canal Harbor waterfront, running through late August with diverse regional and national artists.",
+    "url": "https://buffalowaterfront.com/concerts",
+    "confidence": "high"
+  },
+  {
+    "name": "NYS Craft Brewers Festival - Buffalo",
+    "category": "Food",
+    "start_date": "2026-06-13",
+    "end_date": "2026-06-13",
+    "location": "Canalside, Buffalo",
+    "blurb": "Over 50 New York State breweries pour unique and award-winning beers at Buffalo Canalside, accompanied by live music, food trucks, a keg toss, and a Beer & Wing VIP pairing.",
+    "url": "https://thinknydrinkny.com/buffalo/",
+    "confidence": "high"
+  },
+  {
+    "name": "Allentown Art Festival",
+    "category": "Art",
+    "start_date": "2026-06-13",
+    "end_date": "2026-06-14",
+    "location": "Allentown",
+    "blurb": "One of the oldest and largest outdoor art festivals in the country, filling the Allentown Historic Preservation District with hundreds of fine artists and craftspeople each June.",
+    "url": "https://www.allentownartfestival.com/",
+    "confidence": "high"
+  },
+  {
+    "name": "Juneteenth Festival of Buffalo",
+    "category": "Cultural",
+    "start_date": "2026-06-13",
+    "end_date": "2026-06-14",
+    "location": "Martin Luther King Jr. Park, Buffalo",
+    "blurb": "The 50th anniversary Juneteenth Festival of Buffalo is one of the nation's longest-running celebrations of African American freedom and heritage, featuring a parade, cultural displays, music, and community programming.",
+    "url": "https://www.buffalojuneteenth.com/",
+    "confidence": "high"
+  },
+  {
+    "name": "Lockport Pride",
+    "category": "Cultural",
+    "start_date": "2026-06-13",
+    "end_date": "2026-06-13",
+    "location": "Main Street, Lockport NY",
+    "blurb": "A two-day family-friendly Pride event along Main Street in Lockport with over 100 artists, craft and food vendors, and an evening drag performance.",
+    "url": "https://buffalopride.org/event/lockport-pride/",
+    "confidence": "high",
+    "pride": true
+  },
+  {
+    "name": "Discover Amherst Street Festival",
+    "category": "Neighborhood",
+    "start_date": "2026-06-20",
+    "end_date": "2026-06-20",
+    "location": "Grant-Amherst, Buffalo",
+    "blurb": "Free annual neighborhood street festival on Amherst Street between Elmwood and Grant featuring a noon parade, family activities, music, horse-and-buggy rides, and tours of Assumption Church.",
+    "url": "https://stepoutbuffalo.com/festivals/",
+    "confidence": "medium"
+  },
+  {
+    "name": "Roycroft Summer Festival",
+    "category": "Art",
+    "start_date": "2026-06-27",
+    "end_date": "2026-06-28",
+    "location": "East Aurora",
+    "blurb": "An annual arts and crafts festival celebrating the Arts and Crafts movement legacy of the Roycroft Campus, held each final full weekend of June at the Classic Rink in East Aurora.",
+    "url": "https://www.roycroftcampuscorporation.com/upcoming-events/",
+    "confidence": "high"
+  },
+  {
+    "name": "Rainbow City Pride (Niagara Falls)",
+    "category": "Cultural",
+    "start_date": "2026-06-27",
+    "end_date": "2026-06-27",
+    "location": "Old Falls Street, Niagara Falls NY",
+    "blurb": "The 4th Annual Rainbow City Pride on Old Falls Street featuring a DJ, drag performances, drag bingo, belly dancing, and community vendors from 1–6 p.m.",
+    "url": "https://www.niagarapride.org/seasonofpride2026",
+    "confidence": "high",
+    "pride": true
+  },
+  {
+    "name": "Taste of Buffalo",
+    "category": "Food",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-12",
+    "location": "Downtown Buffalo",
+    "blurb": "One of the largest two-day food festivals in the United States, Taste of Buffalo showcases dozens of local restaurants along downtown streets drawing over 400,000 attendees.",
+    "url": "https://www.tasteofbuffalo.com/",
+    "confidence": "high"
+  },
+  {
+    "name": "South Buffalo Porchfest",
+    "category": "Neighborhood",
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-11",
+    "location": "South Buffalo",
+    "blurb": "A free, family-friendly afternoon festival where dozens of local bands take over porches and lawns across South Buffalo for a sprawling, walkable neighborhood music celebration.",
+    "url": "https://www.southbuffaloporchfest.com/",
+    "confidence": "high"
+  },
+  {
+    "name": "East Side Garden Walk",
+    "category": "Art",
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-19",
+    "location": "East Side Buffalo",
+    "blurb": "A self-guided tour of 100+ eclectic private gardens, community plots, and urban farms on Buffalo's East Side, celebrating community beauty and resilience.",
+    "url": "https://www.gardensbuffaloniagara.com/esgw",
+    "confidence": "high"
+  },
+  {
+    "name": "Canal Fest of the Tonawandas",
+    "category": "Neighborhood",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-26",
+    "location": "Gratwick Riverside Park, North Tonawanda",
+    "blurb": "The Twin Cities' beloved eight-day community festival along the Historic Erie Barge Canal draws nearly 300,000 visitors with food, live music, arts and crafts, and family events, moving to Gratwick Park for 2026.",
+    "url": "https://www.canalfest.org/",
+    "confidence": "high"
+  },
+  {
+    "name": "Galbani Buffalo Italian Heritage Festival",
+    "category": "Food",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-26",
+    "location": "Hertel Avenue, North Buffalo",
+    "blurb": "Celebrating its 50th anniversary, this beloved street festival on Hertel Avenue features authentic Italian food, wine, music, and cultural traditions in the heart of North Buffalo.",
+    "url": "https://buffaloitalianfestival.com/",
+    "confidence": "high"
+  },
+  {
+    "name": "Cheektowaga Polish American Arts Festival",
+    "category": "Cultural",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-26",
+    "location": "Cheektowaga Town Park, 2600 Harlem Rd, Cheektowaga",
+    "blurb": "The 46th annual Polish American Arts Festival offers free admission to celebrate Polish heritage through food, traditional music, dance groups, crafts, and cultural exhibits at Cheektowaga Town Park.",
+    "url": "https://pacwny.org/event/cheektowaga-polish-american-arts-festival/",
+    "confidence": "high"
+  },
+  {
+    "name": "Queen City Jazz Festival",
+    "category": "Music",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "location": "Buffalo & Erie County Central Library, Downtown Buffalo",
+    "blurb": "The 22nd annual free outdoor jazz festival hosted by the Historic Colored Musicians Club, featuring live performances from regional and national jazz artists.",
+    "url": "https://visitbuffalo.com/event/22nd-annuel-queen-city-jazz-festival/",
+    "confidence": "high"
+  },
+  {
+    "name": "Garden Walk Buffalo",
+    "category": "Art",
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-26",
+    "location": "Citywide Buffalo",
+    "blurb": "America's largest free garden tour, featuring more than 300 gardens across Buffalo neighborhoods in a self-guided weekend walk always held the last full weekend of July.",
+    "url": "https://www.gardensbuffaloniagara.com/garden-walk-buffalo",
+    "confidence": "high"
+  },
+  {
+    "name": "Cobblestone Live Music & Arts Festival",
+    "category": "Music",
+    "start_date": "2026-07-27",
+    "end_date": "2026-07-28",
+    "location": "Historic Cobblestone District, Buffalo",
+    "blurb": "A two-day multi-stage outdoor music festival in Buffalo's historic Cobblestone District featuring indie, funk, electronic, and acoustic acts across five stages.",
+    "url": "https://cobblestonelive.com/",
+    "confidence": "high"
+  },
+  {
+    "name": "Jack Craft Fair",
+    "category": "Art",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-01",
+    "location": "Larkin District",
+    "blurb": "Buffalo's premier alternative arts festival at Larkin Square, showcasing 100+ local and independent makers with handmade goods, art, and community vendors.",
+    "url": "https://www.jackcraftfair.com/",
+    "confidence": "high"
+  },
+  {
+    "name": "Buffalo Irish Festival",
+    "category": "Cultural",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-02",
+    "location": "River Fest Park, Buffalo",
+    "blurb": "The Buffalo Irish Festival brings two days of live Irish music, dance performances, cultural workshops on literature and language, and a Kids Zone to River Fest Park on the waterfront.",
+    "url": "https://buffaloirishfestival.com/",
+    "confidence": "high"
+  },
+  {
+    "name": "Lewiston Art Festival",
+    "category": "Art",
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-09",
+    "location": "Lewiston",
+    "blurb": "A juried outdoor art festival drawing 200+ artists to Center Street in the historic Village of Lewiston, featuring a Chalk Walk competition, Indigenous Market, and live performances.",
+    "url": "https://www.artcouncil.org/events/lewiston-art-festival-2026",
+    "confidence": "high"
+  },
+  {
+    "name": "Puerto Rican & Hispanic Day Parade and Festival",
+    "category": "Cultural",
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "location": "Niagara Square / Niagara Street (Avenida San Juan), Buffalo",
+    "blurb": "The 24th Annual Puerto Rican and Hispanic Day Parade marches down Avenida San Juan to Niagara Square, followed by a free outdoor concert celebrating the Latino heritage of Western New York.",
+    "url": "https://www.prhdp.org/",
+    "confidence": "high"
+  },
+  {
+    "name": "National Buffalo Wing Festival",
+    "category": "Food",
+    "start_date": "2026-08-29",
+    "end_date": "2026-08-30",
+    "location": "Sahlen Field, Downtown Buffalo",
+    "blurb": "The 25th Annual National Buffalo Wing Festival moves to Sahlen Field for the weekend before Labor Day, offering unlimited wing samples from 20+ vendors alongside the U.S. Chicken Wing Eating Championship.",
+    "url": "https://buffalowing.com/",
+    "confidence": "high"
+  },
+  {
+    "name": "Buffalo Jazz Festival",
+    "category": "Music",
+    "start_date": "2026-09-06",
+    "end_date": "2026-09-06",
+    "location": "Canalside, Buffalo Waterfront",
+    "blurb": "The 5th annual Labor Day Sunday jazz festival headlined by Brazilian-style jazz ensemble Três Mais and Grammy-nominated vocalist Karrin Allyson.",
+    "url": "https://jazzbuffalo.org/",
+    "confidence": "high"
+  },
+  {
+    "name": "Music is Art Festival",
+    "category": "Music",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-12",
+    "location": "Outer Harbor, Buffalo",
+    "blurb": "A free all-day celebration of Buffalo's music scene featuring over 200 bands across 20 stages, DJs, performance art, and family programming at the Outer Harbor.",
+    "url": "https://www.musicisart.org/festival",
+    "confidence": "high"
+  },
+  {
+    "name": "Borderland Music and Arts Festival",
+    "category": "Music",
+    "start_date": "2026-09-18",
+    "end_date": "2026-09-20",
+    "location": "Knox Farm State Park, East Aurora",
+    "blurb": "A three-day grassroots camping music festival at Knox Farm State Park featuring national headliners (Jack White, Alabama Shakes, Lord Huron) alongside indie, folk, and Americana acts.",
+    "url": "https://www.borderlandfestival.com/",
+    "confidence": "high"
+  },
+  {
+    "name": "Shop, Rock & Stroll — Hertel Avenue End-of-Summer Edition",
+    "category": "Neighborhood",
+    "start_date": "2026-09-25",
+    "end_date": "2026-09-25",
+    "location": "Hertel Avenue, North Buffalo",
+    "blurb": "The Hertel Business Association's recurring last-Friday-of-the-month street activation turns the avenue into an open-air party with live music, boutique shopping, and dining through September.",
+    "url": "https://hertel-ave.com/pages/hertel-music-series",
+    "confidence": "high"
+  }
+]
